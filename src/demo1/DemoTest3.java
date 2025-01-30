@@ -6,7 +6,7 @@ public class DemoTest3 {
 
 		int a= 10;
 		int b= 20;
-		
+		//this is a comment
 		int result = a + b;
 			
 		System.out.println(a + b); 
